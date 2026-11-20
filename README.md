@@ -1,6 +1,7 @@
 # SmsMail
 
-**SmsMail** is a programmatic Kotlin Android app (no XML layouts) that forwards SMS messages and optional incoming call notifications via email using `WorkManager` (`SendWorker`), `javax.mail` over TLS, `AndroidKeyStore`, AES-256-GCM encryption, and an encrypted local queue (`Queue` / `Store`)[cite: 3, 4].
+**SmsMail** is a tool that allows you to receive your sms on email, why? i have 2 phones, my sim is in one and the other has no sim, i daily drive the one with no sim, and it is annoying to go search for the other phone whenever i need a verification code, and when it is in my bag i don't hear the calls usually. so with this tool i'll get all the notifications on my main phone without the hassle of searching for my phone.
+the tool is completely vibe coded, I am not a programmer and know barely anything about programming.
 
 ---
 
